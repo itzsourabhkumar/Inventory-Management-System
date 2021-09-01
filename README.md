@@ -10,7 +10,7 @@ In this Inventory our main objective are booking slotes for vaccination by selec
 Explanation Step by step::
 <br/>
 
-Step-1: In step 1 we are reading a file by using file habdling read mode.
+Step-1: In step 1 we are reading a file by using file handling read mode.
 <br/>
 
 
