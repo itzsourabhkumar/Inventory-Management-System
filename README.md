@@ -1,7 +1,7 @@
 # Inventory-Management-System
 Project Based On Management System Of COVID-19 Vaccine
 
-Medicine -> COVID-19 Vaccine
+Medicine -> COVID-19 Vaccine 🧑
 <br/>
 Objective of MMS->Medicine Management System::
 <br/>
