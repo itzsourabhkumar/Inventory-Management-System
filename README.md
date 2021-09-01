@@ -8,7 +8,7 @@ In this Inventory our main objective are booking slotes for vaccination by selec
 
 Explanation Step by step::
 
-Step-1: In step 1 we are reading a file by using file habdling read mode
+Step-1: In step 1 we are reading a file by using file habdling read mode.
 Step-2: In step two we are making a list by using split function and print all the state name with their code's
 Step-3: In step 3 we are doing our main logic ::  
                                      1. of all we are taking State_id and age_of_person by user
