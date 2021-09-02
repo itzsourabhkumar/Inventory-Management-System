@@ -52,5 +52,5 @@ Step-5: IN last step we are writing the updated list in medicine-data.txt file
 <br/>
 
 Hope you like it!
-<img src="Screenshot (144).png" width="500" />
+
 
