@@ -16,7 +16,7 @@ Step-1: In step 1 we are reading a file by using file handling read mode.
 
 Step-2: In step two we are making a list by using split function and print all the state name with their code's
 <br/>
-
+<img src="Screenshot (149).png" width="500" />
 Step-3: In step 3 we are doing our main logic ::  
 <br/>
 
