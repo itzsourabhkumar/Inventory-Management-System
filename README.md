@@ -17,6 +17,7 @@ Step-1: In step 1 we are reading a file by using file handling read mode.
 Step-2: In step two we are making a list by using split function and print all the state name with their code's
 <br/>
 <img src="Screenshot (149).png" width="500" />
+<br/>
 Step-3: In step 3 we are doing our main logic ::  
 <br/>
 
@@ -42,6 +43,8 @@ B.Covisheld
 <br/>
      
 5.If the vaccine are in stock than your booking is successful otherwise Vaxin out of stock.
+<br/>
+<img src="Screenshot (150).png" width="500" />
 <br/>
 
 Step-4: This is the second last step of this project in which we are updating the value of vaccine and store it in a new List (Name of the list -> new_record = [])
